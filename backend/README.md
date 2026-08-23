@@ -1,6 +1,6 @@
 # Backend
 
-Backend is a small Express API that returns a demo message from the `/api/message` endpoint.
+Backend is a small Express API that returns a demo message.
 
 ## Requirements
 
