@@ -1,6 +1,6 @@
 # Hello Server
 
-**A small full-stack application for demonstrating manual deployment on a Linux server**
+A small full-stack application for demonstrating manual deployment on a Linux server
 
 ## Project Structure
 
