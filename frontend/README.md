@@ -1,6 +1,6 @@
 # Frontend
 
-Frontend is a React application built with Vite. It requests data from the backend API using the `VITE_API_URL` environment variable.
+Frontend is a React application built with Vite.
 
 ## Requirements
 

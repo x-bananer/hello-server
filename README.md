@@ -18,5 +18,5 @@ The frontend sends a request to the backend endpoint `/api/message` and renders 
 
 ## Detailed Run Guides
 
-- Frontend guide: [frontend/README.md](/Users/ksenia/Desktop/hello-server/frontend/README.md)
-- Backend guide: [backend/README.md](/Users/ksenia/Desktop/hello-server/backend/README.md)
+- Frontend guide: https://github.com/x-bananer/hello-server/blob/main/frontend/README.md
+- Backend guide: https://github.com/x-bananer/hello-server/blob/main/backend/README.md
