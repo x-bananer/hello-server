@@ -9,7 +9,7 @@ dotenv.config({
 const app = express();
 app.use(cors());
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT;
 
 app.get('/api/message', (req, res) => {
 	res.json({
