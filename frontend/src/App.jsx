@@ -6,7 +6,7 @@ function App() {
 	const [message, setMessage] = useState('');
 
 	useEffect(() => {
-		fetch(`${API_URL}/api/message`)
+		fetch(`${API_URL}/message`)
 			.then((response) => response.json())
 			.then((data) => {
 				setMessage(data.message);
