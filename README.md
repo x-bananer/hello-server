@@ -14,7 +14,7 @@ The frontend sends a request to the backend endpoint `/api/message` and renders 
 - local full-stack development
 - environment-based configuration
 - manual frontend deployment as static files
-- manual backend deployment as a Node.js service on Linux
+- manual backend deployment as a Node.js service
 
 ## Detailed Run Guides
 

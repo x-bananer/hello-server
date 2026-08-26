@@ -18,10 +18,7 @@ nvm use
 
 ## Environment Variables
 
-Create environment files in `backend/`. Use example file. The server loads environment variables from:
-
-- `.env.development` when running `npm run dev`
-- `.env.production` when running `npm start`
+Create environment files in `backend/`. Use example file.
 
 ## Local Run
 
